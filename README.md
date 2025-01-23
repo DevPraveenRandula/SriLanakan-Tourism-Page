@@ -18,7 +18,7 @@ The **FullStack Tourism Webpage** is a modern platform designed to showcase the 
 
 Explore the live version of the FullStack Tourism Webpage or watch the walkthrough video to see the key features in action:  
 - [Live Demo](https://sri-lanakan-tourism-frontend.vercel.app/login)  
-- [Video Walkthrough](URL_HERE)  
+- [Video Walkthrough](https://drive.google.com/file/d/1XQ2Xu-L0Rjt0EsajdIDfObI8H8dX_Yyq/view?usp=drive_link)  
 
 ---
 
