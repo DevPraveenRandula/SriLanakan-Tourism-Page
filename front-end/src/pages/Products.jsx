@@ -57,7 +57,7 @@ const Products = () => {
         />
         <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
           <h1 className="text-4xl md:text-5xl font-bold text-white text-center">
-            Upcoming Events
+            Local Products
           </h1>
         </div>
       </section>
